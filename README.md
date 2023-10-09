@@ -1,5 +1,7 @@
 # Analytical Study on Dispute Mode for RDC Construction Items
 
+- [Versão em Português (:brazil:)](https://github.com/hugosouto/comprasgov-modo-disputa-obras/blob/main/README.pt-br.md)
+
 ## About
 
 This repository is intended to store an analytical study on the observed
